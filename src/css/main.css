@@ -1,0 +1,40 @@
+body{
+	background-color: #c9c9c9;
+}
+/** portada***/
+.jumbotron {
+	background-image:url(../img/image.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: all;
+}
+/** Menor a 800px**/
+@media screen and (max-width: 800px) {
+  .jumbotron {
+	background-image:url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: all;
+}
+}
+/*** end portada***/
+#footer{
+	background-color:#F08080 ;
+	padding: 1.5rem;
+	font-size: 13px;
+
+}
+/***card***/
+.card{
+	padding: 1rem;
+}
+.card:hover {
+	padding: 0.75rem;
+ box-shadow: 5px 10px #888888;
+}
+/***posicion**/
+.position{
+	position:relative;
+	left: 100;
+}
+/***end posicion**/
