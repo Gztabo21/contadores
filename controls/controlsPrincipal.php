@@ -6,19 +6,19 @@ switch ($ope) {
     include('src/template/body/principal.php');
         break;
     case 1:
-    include('src/template/views/quienesSomos.php');
+    include('../src/views/quienesSomos.php');
         break;
     case 2:
-    include('src/template/views/Contactanos.php');
+    include('src/views/Contactanos.php');
         break;
     case 3:
-    include('src/template/views/Servicios.php');
+    include('src/views/Servicios.php');
          break;
     case 4:
-    include('src/template/views/Cursos.php');
+    include('src/views/Cursos.php');
         break;
     case 5:
-    include('src/template/views/Normas.php');
+    include('src/views/Normas.php');
         break;
 }
 

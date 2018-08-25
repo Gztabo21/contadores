@@ -1,6 +1,6 @@
 <?php
 echo"
-<h1>Contadores</h1>
+<h1>Quienes Somos</h1>
 ";
 
 ?>
