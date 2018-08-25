@@ -1,6 +1,4 @@
-<?php
-    include('controls/controlsPrincipal.php');
-   ?>
+
 <!doctype html>
 <html lang="en">
 
@@ -23,9 +21,8 @@
     </header>
     <!-------->
 <?php
-include('controls/controlsPrincipal.php?num=0');
+include('controls/controlsPrincipal.php');
 ?>
-<frame src="">
     <!-------->
 
    
