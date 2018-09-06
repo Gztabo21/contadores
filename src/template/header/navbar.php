@@ -42,7 +42,7 @@ Echo"
                   </ul>
                                   <form class='form-inline'>
                       <a href='?num=Registrar' class='mr-sm-2 my-12'>Registrate <br></a>
-                      <button class='btn btn-outline-primary my-12 my-sm-0' type='submit'><a href='?num=login'>Iniciar</a></button>
+                      <a class='btn btn-outline-primary my-12 my-sm-0' href='?num=login'>Iniciar</a>
                     </form>
                 </div>
 
