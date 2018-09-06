@@ -21,11 +21,11 @@ Echo"
                     </li>
 
                     <li class='nav-item'>
-                      <a class='nav-link' href='controls\controlsPrincipal.php?num=1'>¿Quienes Somos?</a>
+                      <a class='nav-link' href='?num=1'>¿Quienes Somos?</a>
                     </li>
                     
                                         <li class='nav-item'>
-                      <a class='nav-link' href='controls\controlsPrincipal.php?num=5'> Normativas & Tribunal Disciplinario</a>
+                      <a class='nav-link' href='?num=5'> Normativas & Tribunal Disciplinario</a>
                     </li>
                     <li class='nav-item dropdown'>
         <a class='nav-link dropdown-toggle' href='#' id='navbarDropdown' role='button' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>

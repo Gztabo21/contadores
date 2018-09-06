@@ -22,8 +22,8 @@ switch ($ope) {
     $contenido='src/views/Normas.php';
         break;
         default:
-    $contenido='src/template/body/principal.php';
-    $titulo='Contadores Publicos';
+    $contenido = 'src/template/body/principal.php';
+    $titulo ='Contadores Publicos';
         break;
 }
 

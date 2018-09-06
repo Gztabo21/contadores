@@ -5,7 +5,7 @@ include('controls/controlsPrincipal.php');
 <html lang="en">
 
 <head>
-    <title>$titulo</title>
+    <title><?php echo $titulo;?></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
