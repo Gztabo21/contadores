@@ -2,9 +2,9 @@
 $ope=$_GET['num'];
 
 switch ($ope) {
-    case 0:
-    $contenido='src/template/body/principal.php';
-
+    case Registrar:
+    $contenido='src/views/registrar.php';
+    $titulo='Registrate';
         break;
     case 1:
     $contenido='../src/views/quienesSomos.php';
