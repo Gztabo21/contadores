@@ -6,6 +6,10 @@ switch ($ope) {
     $contenido='src/views/registrar.php';
     $titulo='Registrate';
         break;
+        case login:
+        $contenido='src/views/registrar.php';
+        $titulo='Registrate';
+            break;
     case 1:
     $contenido='../src/views/quienesSomos.php';
         break;
