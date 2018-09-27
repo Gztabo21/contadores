@@ -4,11 +4,11 @@ echo"
     <footer>
         <div class='row'>
             <div class='col-sm'>
-                <h5>Redes Sociales</h5>
+                <h5>xxxxxxxxxxx</h5>
                 <nav class='nav flex-column'>
-                    <a class='nav-link active' href='#'>Facebook</a>
-                    <a class='nav-link' href='#'>Twitter</a>
-                    <a class='nav-link' href='#'>instagrams</a>
+                    <a class='nav-link active' href='#'>xxxxxx</a>
+                    <a class='nav-link' href='#'>xxxxxx</a>
+                    <a class='nav-link' href='#'>xxxxxxxx</a>
                 </nav>
             </div>
             <div class='col-sm'>
