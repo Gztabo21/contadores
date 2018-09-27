@@ -45,7 +45,7 @@ echo"
     <!--- CARD---->
     <div class='container'>
         <div class='card-deck'>
-            <div class='card' style='width: 18rem;'>
+            <div class='card'>
                 <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>
@@ -54,7 +54,7 @@ echo"
                 </div>
             </div>
 
-            <div class='card' style='width: 18rem;'>
+            <div class='card' >
                 <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>
@@ -63,7 +63,7 @@ echo"
                 </div>
             </div>
 
-            <div class='card' style='width:18rem;'>
+            <div class='card' >
                 <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>

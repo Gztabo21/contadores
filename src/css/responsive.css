@@ -1,19 +1,14 @@
 							/******************************************
 										Menor a 1200px
 							******************************************/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
   .jumbotron {
 	background-image:url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: all;
 }
-p{
-	font-size:5vw;
-}
-h1{
-	font-size:10vw;
-}
+
 }
 
 								/***********************************
@@ -27,16 +22,28 @@ h1{
 	background-position: all;
 }
 p{
-	font-size:5vw;
+	font-size:1.5vw;
 }
 h1{
 	font-size:10vw;
+}
+.card{
+	padding: 0.3rem;
+	width: 300px;
+	max-width: 500px;
+}
+.card:hover {
+	padding: 0.5rem;
+ box-shadow: 5px 10px #888888;
+}
+.card > img{
+	max-height: 100px;
 }
 }
 							/******************************************
 										Menor a 400px
 							******************************************/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   .jumbotron {
 	background-image:url(../img/portada.jpg);
 	background-repeat: no-repeat;
@@ -50,4 +57,5 @@ p{
 h1{
 	font-size:10vw;
 }
+
 }

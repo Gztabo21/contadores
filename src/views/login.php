@@ -1,15 +1,15 @@
 <div class="form" >
 <form><div class="row">
-<div class="col-sm-4 col-10">
-<div class="form-group">
+<div class="col-sm-4 col-10 col-xl-6">
+<div class="form-group ">
     <label for="exampleInputEmail1">Correo Electronico</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Colocar Correo">
   </div>
 </div>
 </div>
 <div class="row">
-<div class="col-sm-4 col-10">
-<div class="form-group">
+<div class="col-sm-4 col-10 col-lg-6">
+<div class="form-group ">
     <label for="exampleInputPassword1">Contraseña</label>
     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Colocar contraseña">
   </div>
@@ -18,5 +18,5 @@
   
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
+ <a href="?num=registrate" style="padding: 0 0 0 100px;">Registrarse</a>
 </div>
