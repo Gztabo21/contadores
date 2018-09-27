@@ -8,15 +8,7 @@ body{
 	background-size: 100%;
 	background-position: all;
 }
-/** Menor a 800px**/
-@media screen and (max-width: 800px) {
-  .jumbotron {
-	background-image:url(../img/portada.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-position: all;
-}
-}
+
 /*** end portada***/
 #footer{
 	background-color:#F08080 ;
@@ -44,4 +36,7 @@ Formulario
 **************************/
 .form{
 margin: 1em;
+padding: 1em;
+background-color: #000;
+border-radius: 15px;
 }
