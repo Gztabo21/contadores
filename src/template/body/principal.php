@@ -46,7 +46,7 @@ echo"
     <div class='container'>
         <div class='card-deck'>
             <div class='card' style='width: 18rem;'>
-                <img class='card-img-top' src='src/img/fccpv.png' width='100px' height='150px' alt='Card image cap'>
+                <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>
                     <p class='card-text'>This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -55,7 +55,7 @@ echo"
             </div>
 
             <div class='card' style='width: 18rem;'>
-                <img class='card-img-top' src='src/img/fccpv.png' width='100px' height='150px' alt='Card image cap'>
+                <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>
                     <p class='card-text'>This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -64,7 +64,7 @@ echo"
             </div>
 
             <div class='card' style='width:18rem;'>
-                <img class='card-img-top' src='src/img/fccpv.png' width='100px' height='150px' alt='Card image cap'>
+                <img class='card-img-top' src='src/img/fccpv.png' width='80px' height='170px' alt='Card image cap'>
                 <div class='card-body'>
                     <h5 class='card-title'>Card title</h5>
                     <p class='card-text'>This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -80,6 +80,7 @@ echo"
         <div class='container'>
             <h1 class='display-4'>Cursos</h1>
             <p class='lead'>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+
         </div>
     </div>
 
