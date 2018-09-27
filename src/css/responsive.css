@@ -1,9 +1,53 @@
-/** Menor a 800px**/
+							/******************************************
+										Menor a 1200px
+							******************************************/
 @media screen and (max-width: 800px) {
   .jumbotron {
 	background-image:url(../img/portada.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: all;
+}
+p{
+	font-size:5vw;
+}
+h1{
+	font-size:10vw;
+}
+}
+
+								/***********************************
+								            Menor a 800px
+								 ***********************************/
+@media screen and (max-width: 800px) {
+  .jumbotron {
+	background-image:url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: all;
+}
+p{
+	font-size:5vw;
+}
+h1{
+	font-size:10vw;
+}
+}
+							/******************************************
+										Menor a 400px
+							******************************************/
+@media screen and (max-width: 800px) {
+  .jumbotron {
+	background-image:url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: all;
+
+}
+p{
+	font-size:5vw;
+}
+h1{
+	font-size:10vw;
 }
 }
