@@ -80,6 +80,7 @@ echo"
         <div class='container'>
             <h1 class='display-4'>Cursos</h1>
             <p class='lead'>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+            <a class='btn btn-outline-primary my-12 my-sm-0' href='?num=cursos'>Ver mas</a>
 
         </div>
     </div>

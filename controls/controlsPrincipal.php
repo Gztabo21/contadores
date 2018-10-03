@@ -25,7 +25,7 @@ switch ($ope) {
     case 3:
     $contenido='src/views/Servicios.php';
          break;
-    case 4:
+    case cursos:
     $contenido='src/views/Cursos.php';
         break;
     case 5:
