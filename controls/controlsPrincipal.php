@@ -5,15 +5,15 @@ $ope=$_GET['num'];
 switch ($ope) {
     case Registrar:
     $contenido='src/views/registrar.php';
-    $titulo='Registrate';
+    $titulo='Contadores Publicos| Registrate';
         break;
     case login:
     $contenido='src/views/login.php';
-    $titulo='Inicia sesion';
+    $titulo=' Contadores Publicos| Inicia sesion';
         break;
         case cursos:
              $contenido='src/views/Cursos.php';
-            $titulo='Cursos y Diplomados';
+            $titulo='Contadores Publicos|Cursos y Diplomados';
             break;
 
     case 1:

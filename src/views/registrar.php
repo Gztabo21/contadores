@@ -1,3 +1,6 @@
+<div class="container-padding">
+
+
 <h1> Registrate</h1>
 <div>
 
@@ -33,6 +36,10 @@
       <input type="password" class="form-control" placeholder="Confirme contraseña">
     </div>
   </div>
+  <br>
   <button type="submit" class="btn btn-primary">Sign in</button>
 </form>
+</div>
+
+  
 </div>

@@ -1,3 +1,4 @@
+<div class="container-padding"></div>
 <div class="form" >
 <form><div class="row">
 <div class="col-sm-4 col-10 col-xl-6">
@@ -18,5 +19,5 @@
   
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
- <a href="?num=registrate" style="padding: 0 0 0 100px;">Registrarse</a>
+ <a href="?num=registrate" >Registrarse</a>
 </div>

@@ -44,3 +44,6 @@ border-radius: 15px;
 .container-margin{
 margin-top: 40px;
 }
+.container-padding{
+	padding: 40px;
+}
