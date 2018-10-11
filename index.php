@@ -23,9 +23,12 @@ include('controls/controlsPrincipal.php');
    ?>
     </header>
     <!-------->
-<?php
+    <div class="container-margin">
+       <?php
     include($contenido);
 ?>
+    </div>
+
     <!-------->
 
    

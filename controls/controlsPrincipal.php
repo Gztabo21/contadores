@@ -17,7 +17,8 @@ switch ($ope) {
             break;
 
     case 1:
-    $contenido='../src/views/quienesSomos.php';
+    $contenido='src/views/quienesSomos.php';
+    $titulo='Quienes Somos';
         break;
     case 2:
     $contenido='src/views/Contactanos.php';
