@@ -1,6 +1,7 @@
 <?php
-
-Echo"
+session_start();
+$usuario=$_SESSION['user'];
+?>
 
 <nav class='navbar navbar-expand-lg navbar-dark bg-dark'>
     <a class='navbar-brand' href='index.php'> <img src='src\img\logo.png' width='40 height='40' alt=''> Contadores</a>
@@ -40,15 +41,24 @@ Echo"
       </li>
      
                   </ul>
+<?php
+if($usuario==""){
+echo"
                                   <form class='form-inline'>
                       <a href='?num=Registrar' class='mr-sm-2 my-12'>Registrate <br></a>
                       <a class='btn btn-outline-primary my-12 my-sm-0' href='?num=login'>Iniciar</a>
                     </form>
+                    ";
+}
+else{
+  echo"Hola".$usuario;
+}
+?>
                 </div>
 
         </nav>
 
 
-";
 
-?>
+
+
