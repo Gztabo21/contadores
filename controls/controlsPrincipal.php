@@ -15,6 +15,10 @@ switch ($ope) {
              $contenido='src/views/Cursos.php';
             $titulo='Contadores Publicos|Cursos y Diplomados';
             break;
+            case curso:
+            $contenido='src/views/Curso.php';
+           $titulo='Contadores Publicos|';
+           break;
 
     case 1:
     $contenido='src/views/quienesSomos.php';

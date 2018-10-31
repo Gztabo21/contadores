@@ -1,3 +1,6 @@
+<?php 
+include('controls/Cursocontrols.php'); 
+?>
 <br>
 <br>
 <h1 class="">Los Mejores cursos del mes</h1>
@@ -10,6 +13,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=curso"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
   
@@ -19,6 +23,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=5"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
  
@@ -28,6 +33,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=5"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
 
@@ -37,6 +43,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=5"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
 
@@ -46,6 +53,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=5"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
 
@@ -55,6 +63,7 @@
       <h5 class="card-title">Card title</h5>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      <a href="?num=5"> <button type="button" class="btn btn-primary">inscribir</button></a>
     </div>
   </div>
   
